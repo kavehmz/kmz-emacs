@@ -23,7 +23,7 @@
 (global-set-key [(meta f3)] 'highlight-symbol-prev)
 
 
-(global-set-key (kbd "C-c C-l") 'goto-line)
+(global-set-key (kbd "C-c l") 'goto-line)
 
 (server-start)
 (desktop-save-mode 1)
