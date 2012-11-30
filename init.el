@@ -15,6 +15,9 @@
 (setq auto-save-default         nil) ; Don't want any auto saving
 
 
+(setq tags-table-list
+            '("~/emacs" "/home/got/bom"))
+
 (require 'highlight-symbol)
 (setq search-highlight           t) ; Highlight search object 
 (global-set-key [(C f3)] 'highlight-symbol-at-point)
