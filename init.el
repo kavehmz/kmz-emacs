@@ -16,7 +16,7 @@
 
 
 (setq tags-table-list
-            '("~/emacs" "/home/got/bom"))
+            '("/home/git/bom" "/home/kaveh/Office/bom"))
 
 (require 'highlight-symbol)
 (setq search-highlight           t) ; Highlight search object 
