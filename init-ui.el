@@ -28,4 +28,5 @@
 (require 'ido)
 (ido-mode t)
 
+(xterm-mouse-mode 1)
 (provide 'init-ui)
