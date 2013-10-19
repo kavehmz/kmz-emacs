@@ -4,10 +4,8 @@
 (require 'init-text)
 
 (require 'init-c)
-(require 'init-markdown)
 (require 'init-php)
 (require 'init-perl)
-(require 'init-python)
 
 ;; do not make backup files
 (setq make-backup-files         nil) ; Don't want any backup files
